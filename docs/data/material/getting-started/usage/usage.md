@@ -7,7 +7,7 @@ MUI components work in isolation.
 They don't rely on any global style-sheets such as [normalize.css](https://github.com/necolas/normalize.css/).
 
 You can use any of the components as demonstrated in the documentation.
-Please refer to each component's [demo page](/material-ui/react-button/) to see how they should be imported.
+Please refer to each component's [demo page](/material-ui/react-button/button) to see how they should be imported.
 
 ## Quick start
 
